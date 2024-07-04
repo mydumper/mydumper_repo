@@ -1,0 +1,100 @@
+Package: mydumper
+Source: mydumper
+Version: 0.16.4-15~bionic
+Architecture: amd64
+Maintainer: David Ducos <david.ducos@gmail.com>
+Pre-Depends: libatomic1, libglib2.0-0, libpcre3
+Filename: ./mydumper_0.16.4-15~bionic_amd64.deb
+Size: 2793340
+MD5sum: e51e2b82c7c5a97ea11b03bd626ea306
+SHA1: 881193f6907f492ab222a372152c81e38ab0b505
+SHA256: f4b0751f88cb9c839490e22240ced03e2117c957748b91ec129f1fd618128c43
+Section: utils
+Priority: optional
+Homepage: https://github.com/mydumper/mydumper
+Description: mydumper and myloader MySQL backup tools
+ This package provides mydumper and myloader MySQL backup tools.
+ .
+ mydumper is a tool used for backing up MySQL database servers much
+ faster than the mysqldump tool distributed with MySQL.  It also has the
+ capability to retrieve the binary logs from the remote server at the same time
+ as the dump itself.  The advantages of mydumper are: parallelism,
+ easier to manage output, consistency, manageability.
+ .
+ myloader is a tool used for multi-threaded restoration of mydumper backups.
+
+Package: mydumper
+Source: mydumper
+Version: 0.16.4-15~focal
+Architecture: amd64
+Maintainer: David Ducos <david.ducos@gmail.com>
+Pre-Depends: libatomic1, libglib2.0-0, libpcre3
+Filename: ./mydumper_0.16.4-15~focal_amd64.deb
+Size: 2846260
+MD5sum: a4177e810f4cd15f65fd86e8beafe045
+SHA1: 9a6f7639baa11c64d9d5b28cb48461324600b2b1
+SHA256: 76793d5c0a82bf3ddab23e29131653127e94810d213b58f8221400c84e71d8ee
+Section: utils
+Priority: optional
+Homepage: https://github.com/mydumper/mydumper
+Description: mydumper and myloader MySQL backup tools
+ This package provides mydumper and myloader MySQL backup tools.
+ .
+ mydumper is a tool used for backing up MySQL database servers much
+ faster than the mysqldump tool distributed with MySQL.  It also has the
+ capability to retrieve the binary logs from the remote server at the same time
+ as the dump itself.  The advantages of mydumper are: parallelism,
+ easier to manage output, consistency, manageability.
+ .
+ myloader is a tool used for multi-threaded restoration of mydumper backups.
+
+Package: mydumper
+Source: mydumper
+Version: 0.16.4-15~jammy
+Architecture: amd64
+Maintainer: David Ducos <david.ducos@gmail.com>
+Pre-Depends: libatomic1, libglib2.0-0, libpcre3
+Filename: ./mydumper_0.16.4-15~jammy_amd64.deb
+Size: 1736760
+MD5sum: d392ea985f62895c784c22e13b7e265f
+SHA1: 518e21e38c7c19457b5106fd29e1c6ac66ccd969
+SHA256: e8bcefe9a7d9b95710f498d5c74f5c82aa82bb4172e757f12109a187771b6d85
+Section: utils
+Priority: optional
+Homepage: https://github.com/mydumper/mydumper
+Description: mydumper and myloader MySQL backup tools
+ This package provides mydumper and myloader MySQL backup tools.
+ .
+ mydumper is a tool used for backing up MySQL database servers much
+ faster than the mysqldump tool distributed with MySQL.  It also has the
+ capability to retrieve the binary logs from the remote server at the same time
+ as the dump itself.  The advantages of mydumper are: parallelism,
+ easier to manage output, consistency, manageability.
+ .
+ myloader is a tool used for multi-threaded restoration of mydumper backups.
+
+Package: mydumper
+Source: mydumper
+Version: 0.16.4-15~noble
+Architecture: amd64
+Maintainer: David Ducos <david.ducos@gmail.com>
+Pre-Depends: libatomic1, libglib2.0-0, libpcre3
+Filename: ./mydumper_0.16.4-15~noble_amd64.deb
+Size: 2832332
+MD5sum: d4e3c419eaf77c8d97240d621285ce1f
+SHA1: c338be4533b11420537cec257717ef76e145f71f
+SHA256: e8ae65ee5a92fe505bcbf4a60c302b829fe423904e65ffacd9f1d05aa862adbc
+Section: utils
+Priority: optional
+Homepage: https://github.com/mydumper/mydumper
+Description: mydumper and myloader MySQL backup tools
+ This package provides mydumper and myloader MySQL backup tools.
+ .
+ mydumper is a tool used for backing up MySQL database servers much
+ faster than the mysqldump tool distributed with MySQL.  It also has the
+ capability to retrieve the binary logs from the remote server at the same time
+ as the dump itself.  The advantages of mydumper are: parallelism,
+ easier to manage output, consistency, manageability.
+ .
+ myloader is a tool used for multi-threaded restoration of mydumper backups.
+
