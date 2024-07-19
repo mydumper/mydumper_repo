@@ -1,4 +1,5 @@
 # MyDumper Repository
+This repository is a submodule of MyDumper. The idea is to use a unique site https://mydumper.github.io/ to access all the info related to MyDumper.
 
 ## Yum
 We need to import the GPG key:
@@ -21,15 +22,23 @@ enabled=0
 gpgcheck=1
 ```
 ## Apt
+You need to import the key:
+- For old versions
 ```
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 79EA15C0E82E34BA
 ```
-For ubuntu, the source file (/etc/apt/sources.list.d/mydumper.list) should be:
+- Recommended
+```
+wget -qO- 'https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1D357EA7D10C9320371BDD0279EA15C0E82E34BA&exact=on' | sudo tee /etc/apt/trusted.gpg.d/mydumper.asc
+```
+### Ubuntu
+Source file (/etc/apt/sources.list.d/mydumper.list) should be:
 ```
 deb https://mydumper.github.io/mydumper/repo/apt/ubuntu ./
 #deb https://mydumper.github.io/mydumper/repo/apt/ubuntu/testing ./
 ```
-For debian, the source file (/etc/apt/sources.list.d/mydumper.list) should be:
+### Debian
+Source file (/etc/apt/sources.list.d/mydumper.list) should be:
 ```
 deb https://mydumper.github.io/mydumper/repo/apt/debian ./
 #deb https://mydumper.github.io/mydumper/repo/apt/debian/testing ./
