@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~bookworm
+Version: 0.16.6-2~bookworm
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~bookworm_amd64.deb
-Size: 1725444
-MD5sum: 81cb3fd60542b1aee7c903293152162b
-SHA1: 13ca9f435f353e819dc8892a62b5027e0ef0e548
-SHA256: 321d96bd8fda9db45242247e108ca2a3bbbcbe555502d7da00cfcdc1e4ea17ac
+Filename: ./mydumper_0.16.6-2~bookworm_amd64.deb
+Size: 1725816
+MD5sum: 9abf19e15ba7f327194e2ab8daf4d636
+SHA1: 2378a598fa6ab2a393ae993165c6b52dc760fa0a
+SHA256: 2deecc8afbd82f832552529a951f983bdd48b71628a42a9ba632cbf0617a9c7c
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
@@ -25,15 +25,15 @@ Description: mydumper and myloader MySQL backup tools
 
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~bullseye
+Version: 0.16.6-2~bullseye
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~bullseye_amd64.deb
-Size: 1696736
-MD5sum: b1518fc6a31e814eb76920da2f9ddfd5
-SHA1: 2ae6e996f1233d54fcd9d88417135bdbca73d284
-SHA256: 11964c8f8d0b42c587d6d5ef23c84ea86a223a2757f08777be5ece45a8346dac
+Filename: ./mydumper_0.16.6-2~bullseye_amd64.deb
+Size: 1700156
+MD5sum: 8f7515f6ab6eff9d589e1bce67eed5ad
+SHA1: 5cbc00d19df119ee61bc425afcb2dc905b603d7d
+SHA256: b6cb8a080ed9db417621a7e91cae87bde30cd388f9a0c6def1377c07262d77d0
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
@@ -50,15 +50,15 @@ Description: mydumper and myloader MySQL backup tools
 
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~buster
+Version: 0.16.6-2~buster
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~buster_amd64.deb
-Size: 2816616
-MD5sum: b16efc166ad30064ff52ab01a2833a2d
-SHA1: eceeafa4cce536f36abfe264504ae543d2e9aa27
-SHA256: 82d9c17349409e66ba72d2a93b90326be08936b208f81e6d07536d8acced47ec
+Filename: ./mydumper_0.16.6-2~buster_amd64.deb
+Size: 2816936
+MD5sum: 9ad1c22f4166e832ea8aea10bf878307
+SHA1: 95431c4e740ddb3fb173ea0be9e3cfb4a99a8aa1
+SHA256: ea9cc556db880c465047014c0256b72122b698baa24db6d2655d9eddfd153765
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper

@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~bionic
+Version: 0.16.6-2~bionic
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~bionic_amd64.deb
-Size: 2803092
-MD5sum: 1a8d0e9f0d8bcea6a11f8dc8679c0885
-SHA1: 380c96034e88386ad26cb4845aa639f2c36847c1
-SHA256: bb62cf5b837d9850c3e130ad9f12a8322bc9af3cb3f32263188dc2818366dfbc
+Filename: ./mydumper_0.16.6-2~bionic_amd64.deb
+Size: 2805852
+MD5sum: 86234302446ddb17068a313dd4cbc816
+SHA1: 01cbe974ce486a5990c983ddc80d60e47ba7773d
+SHA256: ae21f73533b9916f955393240e4b8d39470325d3e9a96ced6a6c26e922ab7124
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
@@ -25,15 +25,15 @@ Description: mydumper and myloader MySQL backup tools
 
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~focal
+Version: 0.16.6-2~focal
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~focal_amd64.deb
-Size: 2863068
-MD5sum: e0eed0bdbf7493681baa66088137bdcb
-SHA1: 9a9ef44198442ce3cecbb61b5a8934fe19b61888
-SHA256: b6f927ee235ab6d75d472d6a72e7bed2a6902d9779d40ef656d7ae08a1dd82f5
+Filename: ./mydumper_0.16.6-2~focal_amd64.deb
+Size: 2862076
+MD5sum: c8e415e7a8738e2bdfa260d39b178bf7
+SHA1: d45bd0fbd3a3916f761b162c80199756562e78c6
+SHA256: b0a7aaf00321500a0c66092eca8763cbce8b64c1c18f1f8d59ce0167439f45f6
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
@@ -50,15 +50,15 @@ Description: mydumper and myloader MySQL backup tools
 
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~jammy
+Version: 0.16.6-2~jammy
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~jammy_amd64.deb
-Size: 1742468
-MD5sum: 1fdde3a65b3408dcefb623ca17108e98
-SHA1: 38ada15cf952cfc6080cfabb02062a53665e135f
-SHA256: 17d42a3c6974332cae4339ce870e0708a42cde0ed04e0f71a7679489e9c32076
+Filename: ./mydumper_0.16.6-2~jammy_amd64.deb
+Size: 1741940
+MD5sum: 7ca8d62a290eecfc61d233ebc773709e
+SHA1: 1049cd1869878414d9aaecbdca270219eebad7c2
+SHA256: d20b8a3c0286f5b674db62d0b9b08d935fd9401095a01accf2984db1a4b48d13
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
@@ -75,15 +75,15 @@ Description: mydumper and myloader MySQL backup tools
 
 Package: mydumper
 Source: mydumper
-Version: 0.16.6-1~noble
+Version: 0.16.6-2~noble
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.6-1~noble_amd64.deb
-Size: 2849204
-MD5sum: 4ecabc740ea622e911e297e20a35c715
-SHA1: 996c73bf4d3242d586a83acca1e5ac936aaf77c1
-SHA256: 35a0258cf54061fffd20cb58c5e206fd31fa136aa72cefd5c49029ad0a5c3ae7
+Filename: ./mydumper_0.16.6-2~noble_amd64.deb
+Size: 2843820
+MD5sum: b154e1c8b02048a9c7398904a315cf11
+SHA1: 11c0fa7fe25e43415d1b6c1317a99f5056e734cd
+SHA256: f961c2d7b34b6a4f7a42c66b24147ef0187a0af3b39c5020afdc9033abea63d8
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
