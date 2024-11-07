@@ -1,0 +1,25 @@
+Package: mydumper
+Source: mydumper
+Version: 0.16.8-12~noble
+Architecture: amd64
+Maintainer: David Ducos <david.ducos@gmail.com>
+Pre-Depends: libatomic1, libglib2.0-0, libpcre3
+Filename: testing/mydumper_0.16.8-12~noble_amd64.deb
+Size: 8981996
+MD5sum: 0dab0cbc17d1476655038e272c5a94e7
+SHA1: a5f321a8539f8558bbc5277d5491524a0a0b4ae7
+SHA256: 9e3f02d93d41cfdd5c2834774154ea042a73ffbdff939cabb1fc11e43d9d4a6f
+Section: utils
+Priority: optional
+Homepage: https://github.com/mydumper/mydumper
+Description: mydumper and myloader MySQL backup tools
+ This package provides mydumper and myloader MySQL backup tools.
+ .
+ mydumper is a tool used for backing up MySQL database servers much
+ faster than the mysqldump tool distributed with MySQL.  It also has the
+ capability to retrieve the binary logs from the remote server at the same time
+ as the dump itself.  The advantages of mydumper are: parallelism,
+ easier to manage output, consistency, manageability.
+ .
+ myloader is a tool used for multi-threaded restoration of mydumper backups.
+
