@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.8-12~buster
+Version: 0.16.8-13~buster
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: testing/mydumper_0.16.8-12~buster_amd64.deb
-Size: 2819836
-MD5sum: 0c781cdf1ee1cea493c630fcca898f8c
-SHA1: b140045f69b0ea5a16504133cbc84d04c01e760a
-SHA256: 8619b238da4aee5a738030157a9bae337a4fb81a143325d1861e263013ffdd0d
+Filename: testing/mydumper_0.16.8-13~buster_amd64.deb
+Size: 2818128
+MD5sum: ab2d79c9cd630e11035ec5d3708c4022
+SHA1: 5bd4e0aac2bbd381a7e5445eee6ebd8ef4398f46
+SHA256: 79df4ca34e7842e14250e8b563733dc50d906dff391b94f3f6d07cbf9a64f2c4
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper

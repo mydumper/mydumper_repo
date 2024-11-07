@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.8-12~bookworm
+Version: 0.16.8-13~bookworm
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: testing/mydumper_0.16.8-12~bookworm_amd64.deb
-Size: 1742236
-MD5sum: 2330ae5903f5207d6b92a50fa16287ca
-SHA1: 9810cfffbf7340611a8663d637ebfd22c8372e35
-SHA256: b90eb0bfc96a328054e15a8d9f7a5161b6045e1db1040d0f2d1b41f95b716ca8
+Filename: testing/mydumper_0.16.8-13~bookworm_amd64.deb
+Size: 1740976
+MD5sum: 0b6d2758ffa3c67c1d068cf430e2116b
+SHA1: f24a0c61f305a0c1bbcce86dc27c0522ffd5a8cd
+SHA256: 614b06b34b9f70c82144951a9427e9b7cc154710d38db94b76cdb782d1c28541
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
