@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.8-8~jammy
+Version: 0.16.8-9~jammy
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.8-8~jammy_amd64.deb
-Size: 1743456
-MD5sum: 411e7f9708002b2d275dbf91c4f6e999
-SHA1: f80e7eed4c3772855ab8866f513b7bdbbbc5e8d9
-SHA256: b1d9f0545602e555714b18cb2312f155a5843ce7e376c8a19f669d7063f8ea21
+Filename: ./mydumper_0.16.8-9~jammy_amd64.deb
+Size: 1745548
+MD5sum: b9f0d81514c2db839bd1eca399143336
+SHA1: e986954b56f4e2aec774a6c459f9f556d8fcd5a8
+SHA256: 10bc62fc7bf9b86ddd6951cb2090b650f91e2b0c2b7efe85359ea4192812a719
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper

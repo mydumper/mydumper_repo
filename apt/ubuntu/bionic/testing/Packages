@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.8-8~bionic
+Version: 0.16.8-9~bionic
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.8-8~bionic_amd64.deb
-Size: 2808736
-MD5sum: a347539666b60f793060bd392067670b
-SHA1: 899c6b82f621895ab19faca4a72ac2d1ce3cbd1d
-SHA256: 1122bbb89d388b841a1855f1e942376d18a9e562efcb95e575afbf23464eb831
+Filename: ./mydumper_0.16.8-9~bionic_amd64.deb
+Size: 2807824
+MD5sum: d134dd49594fec8fb8acc5bcbb2f69e6
+SHA1: 54e8308309555ff5a35f3b3675c18ac5f02503a9
+SHA256: 698e7290b0d16e36b94fc47c1e1f055fdea67b1f4c4fd8c1978fd51925d9b9ed
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper

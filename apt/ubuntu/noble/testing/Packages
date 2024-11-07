@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.8-8~noble
+Version: 0.16.8-9~noble
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.8-8~noble_amd64.deb
-Size: 8976752
-MD5sum: 04bda33ff4cdb549cda7b22621aea8a2
-SHA1: 4ad3ca74c0234ceb483d2d1850ef209d005ebdb1
-SHA256: 065540d5b9e61c406e7eb3988f2700d615099a22546ae885926871ea6aada2af
+Filename: ./mydumper_0.16.8-9~noble_amd64.deb
+Size: 8980752
+MD5sum: ae3f9245b127564980fc7616b8341231
+SHA1: b5b017febf73bbafa7099f4d96b1470e0ff5df58
+SHA256: ed98c2fbfb435cf4208ac05c5aca8c082b3dd8d039492c03bda61117214b1c1f
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper

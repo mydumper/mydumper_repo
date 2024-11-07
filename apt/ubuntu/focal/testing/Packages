@@ -1,14 +1,14 @@
 Package: mydumper
 Source: mydumper
-Version: 0.16.8-8~focal
+Version: 0.16.8-9~focal
 Architecture: amd64
 Maintainer: David Ducos <david.ducos@gmail.com>
 Pre-Depends: libatomic1, libglib2.0-0, libpcre3
-Filename: ./mydumper_0.16.8-8~focal_amd64.deb
-Size: 2866272
-MD5sum: f075ce8cdcf119a6ac2c498d4e01450e
-SHA1: d76af9184c827dbbe17ae56cbc7744f00cb65747
-SHA256: cb139f85abb525985fc9615a8b9e8ec764703f3c245305aa120f86713c99e154
+Filename: ./mydumper_0.16.8-9~focal_amd64.deb
+Size: 2869576
+MD5sum: 8be17a03c946535b07e10abbcd9d6e4a
+SHA1: 19ec99ff61cd3d9a73f32e8ccd65d5aefb5f56a5
+SHA256: ffafd8c4377b87baf5bb67135113f548d0be91c97e7e2e4acff148b371c01c61
 Section: utils
 Priority: optional
 Homepage: https://github.com/mydumper/mydumper
