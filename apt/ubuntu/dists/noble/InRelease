@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: mydumper
 Label: mydumper
 Codename: noble
-Date: Sat, 09 Nov 2024 14:52:24 UTC
+Date: Sat, 09 Nov 2024 15:07:26 UTC
 Architectures: amd64
 Components: main testing
 Description: APT repository for MyDumper
 MD5Sum:
- c40f155eea8271037f594f5366594702 1043 main/binary-amd64/Packages
- c512ace0003fae6ae4b976753036dfd1 627 main/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
  cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
- d41d8cd98f00b204e9800998ecf8427e 0 testing/binary-amd64/Packages
- 7029066c27ac6f5ef18d660d5741979a 20 testing/binary-amd64/Packages.gz
+ 141ce6eeebd8996d66facf210d5519f8 1046 testing/binary-amd64/Packages
+ 2a6b984530db392741cf487dfb16d582 630 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
 SHA1:
- eedae776a3b66267376c3b3c0f3a8ba0ad94f8f4 1043 main/binary-amd64/Packages
- 40be47ced69c12b7ec8453116fa09470f524a660 627 main/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
  73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 testing/binary-amd64/Packages
- 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 testing/binary-amd64/Packages.gz
+ aa157b26c29b82cf5cfefdbb10ea0ab1f115c713 1046 testing/binary-amd64/Packages
+ 8b6f39bad5f74d73718abc4c9aee8ba97e1d427a 630 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
 SHA256:
- 5b77957ea65bfa97ba50f020c2b3a5a5e44b12ea4f13bfad343f3067292c1f60 1043 main/binary-amd64/Packages
- 89ac9e3896d75a685ac33c4d62ff6bb5fbfea52089e85911b02341db541118ca 627 main/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
  47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 testing/binary-amd64/Packages
- 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 testing/binary-amd64/Packages.gz
+ a8b57c987e51e3569b665e6ad75d8b1c5fcae76437310970383df5e0fe06e85c 1046 testing/binary-amd64/Packages
+ 4c56215b4b1a3586ba5a13760cf4c3e19a19f3d42f0ad4b9a99f9ef1d21a3e73 630 testing/binary-amd64/Packages.gz
  857dcb766a4c489ccb4a96f54d74348a5920e03d6ae4756f78f02b994b897123 113 testing/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmcvdygACgkQeeoVwOgu
-NLphvhAAj2H8DGS7BVN79M27ULloqiEmmqRNp+MD5ETokcXktO4xNDRnFSl4199Y
-Klq5g26UT+plq3ClulsvAqp7+ii2LhkbNLHNXmmURmCWTJXvFrIqUwL2eGqc+H2I
-CDzbtq7HC6H/48ClR3Uyy0CKsU6CgHV312yMZInRAUWvriw2CCfUZ1nNAZEOz0EX
-ULKm/C9RtL4yHjuYKuNohvd9pMFtIVgRhkrBqUcdSXxITzWRRhk+MJp9KryvTb1C
-I3U9/UHCTppHjy7Eo6MGQpe2SrQSouGjdjYcbUU88t8+FR1kl6uWpnEIJt2JL2IW
-7imZAAMiJVtQGkrFKoL7hcYBPdPrB9nk2znEyH6Eta+Bb97UuEkHYxuTrWmo6xTo
-v5iD9PAhCigKgz2lr7tLlNnDUxEXV0S8U8wYjDy3B9FSP+R4vKBuAfzJ2VFYIYfP
-qWPpUj6pobQbC8zqfQFgrJhNCgaRZpu6c3BA8CpIcpy0l6hQstMxpj0rVKIu+wND
-xTOruVj12k7TChIBU30A9QUmur1mF2JtsjQoQeRQjXBLsK4waPAyUi5yugJ57y1A
-M/1BSW8vr+mYtXE1+pC61+60l2RtQ9vzcpwGryO2tUHvYx/fo58Z7ktArGyTrG4Q
-+X7A4Au4scICl6ChTyrAoV/MrmbCQ7UtuRZ2OLStqiUaiNjKies=
-=Bjp5
+iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmcveq4ACgkQeeoVwOgu
+NLotdBAAkXw6Zzcgw6ZqcQT80pf2Hpai1323wcEMOB/Q5yrgXnCGRUZJhQARsFC0
+Q9JbWbVJCE18vVlTxMM6bf3U0oN9pWoMJEiPvHjIzCyltvNA5iXWh8nNhkxW7f2P
+9ueW/mFxlYnmQAOoqWD/+Am477PeJuiPDKzGmeAhCItoOyiOFUQmlgkt/BydbRpX
+CTtGs9Rb7JN3zUJrgT+JfpNLmCw7pXiR0bA6MzIeQyirU6XB/nN2KkoUbYkGXf7K
+2Sq0nK4ktEyavVzBJ8fhKdwyWizuDE4oATgxZ1IYWwMTUYfRKiJVOC3PDmvgTB7A
+ybBfgK6usWqmccZvKJune8IpDZhYG/1YqUnL6lxndV/RCw9HXHt2pGdpGNQFzA/a
+LujWSkBH/32V8JCSKDYQ58ohChiIKxiljorKtv9h4yQxfXg6pNIjsAie1HDtdi7M
+1QO4gOfQ6UZQJysUIzebpnCiSoatmYaXMo5FOuKl+ldhjj2CqwUpaC+QwuQh+BvP
+jX7b+DuJN/aCfNtlj5VPOJB2FQ0pwMvq+yZmdRA+vLrboBz1NZbGSUwo1uvHthQI
+WNdxMDcElLY5iUmGy9EfodePqmqrL92UtqWNKTH/zLHa5EEZ1/RPcrG0XjNv1KA/
+gjkS5CsKxYH3rTLbhlpzZcbZe5Uw6VyDE0WKRotprvj2zk6vlWE=
+=Mip9
 -----END PGP SIGNATURE-----
