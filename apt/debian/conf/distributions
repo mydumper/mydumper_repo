@@ -1,0 +1,7 @@
+Origin: mydumper
+Label: mydumper 
+Codename: buster
+Architectures: amd64
+Components: main testing
+Description: APT repository for MyDumper
+SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
