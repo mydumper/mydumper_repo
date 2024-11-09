@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: mydumper
+Label: mydumper
+Codename: bionic
+Date: Sat, 09 Nov 2024 14:35:59 UTC
+Architectures: amd64
+Components: main testing
+Description: APT repository for MyDumper
+MD5Sum:
+ fc5bb25cccaaf5e5edfa898b32f6500a 1045 main/binary-amd64/Packages
+ 80b263033c30b1895665987d0c75d6cf 627 main/binary-amd64/Packages.gz
+ cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 testing/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 testing/binary-amd64/Packages.gz
+ bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
+SHA1:
+ 84bd9cabac8bd57297ec1f14f2f6bf5ad5cabac0 1045 main/binary-amd64/Packages
+ 713ee2290087c3ad737478616c33000fa6a399a4 627 main/binary-amd64/Packages.gz
+ 73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 testing/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 testing/binary-amd64/Packages.gz
+ 7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
+SHA256:
+ ac88a53af799a73c952dadc1ad9f1be4d6e753b76055ae1c43f59aa902b39af4 1045 main/binary-amd64/Packages
+ 5cbc26dcb90a6df27d13cdcfa24da9e2008fead51e8236cdf7180d3e71ace1f0 627 main/binary-amd64/Packages.gz
+ 47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 testing/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 testing/binary-amd64/Packages.gz
+ 857dcb766a4c489ccb4a96f54d74348a5920e03d6ae4756f78f02b994b897123 113 testing/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmcvc08ACgkQeeoVwOgu
+NLoZMg/+I99I+7X1PhqtFObm2H8/4pmaU4cVb7VJjpbsvzz7qB9oHXse8x/PtXGE
+3vwXLL5cnMd1YXOgGYlHboPcexo06npNO6wTUsty+LxsoY5U61qGJgPXHlhKvy2t
+hJu0wmpLPbkh1rjJhNhqnuLhcSCtdwZAlgYxfNVbWp0m70UEiVwwPXQ54yxFRmEz
+bWNUfedZaARzWhQ56q0SJNvhbLhAwSuqsuENGxd8cYfbq8uJSLIt1etW4qW3ooV6
+oqyWy+iP7abE8AXAgDphWsEnNJhZDWQCU5e8vkZhDg0b//QGiHYvosVGvMIeAPBo
+WaTrCeF30mJPyFIh6SwC9hP+kuHv3yX+WkgeRzxO7IatX3ApF9Rlph9nRkiHRujA
+KevfB44KsT9KIIm2QYISExxIZ3pxiJSP9PHCSlvq3JruKdfFcrYbZB/GNACAobKc
+EO0690f5C528+BQAYE+qtEt9BISAgX3QzG0sYjuLnkKJnWTd7cGBx3kbNOk0M/Nx
+aAoZrHpd9uSeDpOEgVrMcN1+klo/2ogo+46o/DNRXZV8/2VLtJndpuwqkivT1JkS
+r0I7sCrwLLhJpNyZodyvWl2q4847CDIhib5ZSzAgCtyc8AI3VK2hm9QNGDJHE4Ul
+omiAYazjhTKdjoQ9GkoirsSDqHFORbJq1XCK5h7PQRKudyr7dXI=
+=3BlI
+-----END PGP SIGNATURE-----
