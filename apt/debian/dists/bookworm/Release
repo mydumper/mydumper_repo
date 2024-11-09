@@ -1,27 +1,27 @@
 Origin: mydumper
 Label: mydumper
 Codename: bookworm
-Date: Sat, 09 Nov 2024 14:36:00 UTC
+Date: Sat, 09 Nov 2024 14:52:25 UTC
 Architectures: amd64
 Components: main testing
 Description: APT repository for MyDumper
 MD5Sum:
- 7159ce64b750b522b7d2b0a5bf4eb29b 1049 main/binary-amd64/Packages
- b29a6699e338cecd1d1fc9f4683a7f93 630 main/binary-amd64/Packages.gz
+ 9a43491d445cb78dafc750314d0c40d3 1049 main/binary-amd64/Packages
+ aa8680cbb1e88fa6842a0428508b9da7 633 main/binary-amd64/Packages.gz
  cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
  d41d8cd98f00b204e9800998ecf8427e 0 testing/binary-amd64/Packages
  7029066c27ac6f5ef18d660d5741979a 20 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
 SHA1:
- 790a7836f426243842d05a799e1b2632cebc945e 1049 main/binary-amd64/Packages
- 94f362f4c5c53868404f8460c621a43011dbe618 630 main/binary-amd64/Packages.gz
+ 964cf7cb8d792e3f11c3aa343ca1f7dcb162b77a 1049 main/binary-amd64/Packages
+ 86edc014dd52b05bad8634336b4105f1ffa42616 633 main/binary-amd64/Packages.gz
  73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 testing/binary-amd64/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
 SHA256:
- 36c251c918775b53a02e31927f12ccb9fcc1815f378b8508ede2be021e4c4511 1049 main/binary-amd64/Packages
- 3b9350c7243d22357f06d6d73f620ce1b6837fcb94d0a54ed109c4d86f91fb86 630 main/binary-amd64/Packages.gz
+ 465e1c21fc8fe002a8de980115c67fcb25bf3b7d3f05cb85a3a6e0fe950594a1 1049 main/binary-amd64/Packages
+ 6ae3a75eea5ef13791123bfd03c58c6311e78b66397c78a75f664057d5a36525 633 main/binary-amd64/Packages.gz
  47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 testing/binary-amd64/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 testing/binary-amd64/Packages.gz
