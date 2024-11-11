@@ -3,6 +3,7 @@ Label: mydumper
 Codename: noble
 Architectures: amd64
 Components: main testing
+Suite: stable
 Description: APT repository for MyDumper
 SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
 
@@ -11,6 +12,7 @@ Label: mydumper
 Codename: bionic
 Architectures: amd64
 Components: main testing
+Suite: stable
 Description: APT repository for MyDumper
 SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
 
@@ -19,6 +21,7 @@ Label: mydumper
 Codename: focal
 Architectures: amd64
 Components: main testing
+Suite: stable
 Description: APT repository for MyDumper
 SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
 
@@ -27,5 +30,6 @@ Label: mydumper
 Codename: jammy
 Architectures: amd64
 Components: main testing
+Suite: stable
 Description: APT repository for MyDumper
 SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
