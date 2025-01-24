@@ -2,7 +2,7 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: buster
-Date: Tue, 14 Jan 2025 19:48:39 UTC
+Date: Fri, 24 Jan 2025 12:28:37 UTC
 Architectures: amd64
 Components: main testing
 Description: APT repository for MyDumper
@@ -10,20 +10,20 @@ MD5Sum:
  cd2e06d8eaff0ef89c26a0c635414b8d 1043 main/binary-amd64/Packages
  c37a31752265a34640fde74e37ca4b9d 626 main/binary-amd64/Packages.gz
  cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
- 76d80b451eeee0eb65e4b9d3f4b9030b 1048 testing/binary-amd64/Packages
- bdff480a1babf8e1afe091bc5e2286a2 631 testing/binary-amd64/Packages.gz
+ a2790a49992ce0df63771aa492c9abe2 1048 testing/binary-amd64/Packages
+ e5b4087997d1cff3df62c44b9964b316 629 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
 SHA1:
  061d6beb0701f484ae37649682b0090aafdc69cc 1043 main/binary-amd64/Packages
  d7b8745fad15bb0ddc32f6a270e20c246acbee4c 626 main/binary-amd64/Packages.gz
  73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
- e82626a1a7f70e4ee1db55e9bafe90515eefd914 1048 testing/binary-amd64/Packages
- 8099a78b49422b6468f782870f6c09d31c84f34a 631 testing/binary-amd64/Packages.gz
+ 1a785438cbdae5065e4554c9ea848eb7eb5c496f 1048 testing/binary-amd64/Packages
+ abf085e7fff750639eadc5659bd4ff727b30d467 629 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
 SHA256:
  06be960acc21fc035e437b033a52ba8a39b10f30cf7c49aeedccbf1cb74a2c31 1043 main/binary-amd64/Packages
  2b6bbea45b92a4ee93166c6dada1b680a92fde03412347a086cb6b08e37d793f 626 main/binary-amd64/Packages.gz
  47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
- f560c78a8c87a51388429c9ad9f45b59f0d839d8d5b4256e0614a7a0d073d4f6 1048 testing/binary-amd64/Packages
- 2e029f8c6d49252be10354c57338e10df41d5b6954f5e817d075a606a4130356 631 testing/binary-amd64/Packages.gz
+ 52f48a4c8b4a55022c6b8fa929dc2a778901c19f36c282253989661dc1e62577 1048 testing/binary-amd64/Packages
+ 63d816ff3bc486f541ef504eab6a790277eeafc8515a77b2605e30d77f3a7383 629 testing/binary-amd64/Packages.gz
  857dcb766a4c489ccb4a96f54d74348a5920e03d6ae4756f78f02b994b897123 113 testing/binary-amd64/Release
