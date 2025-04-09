@@ -24,12 +24,3 @@ Components: main testing
 Suite: stable
 Description: APT repository for MyDumper
 SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
-
-Origin: mydumper
-Label: mydumper
-Codename: trixie 
-Architectures: amd64 arm64
-Components: main testing
-Suite: stable
-Description: APT repository for MyDumper
-SignWith: 1D357EA7D10C9320371BDD0279EA15C0E82E34BA
