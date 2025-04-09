@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: mydumper
-Label: mydumper
-Architecture: arm64
-Description: APT repository for MyDumper
