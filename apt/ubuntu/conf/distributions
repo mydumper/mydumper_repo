@@ -1,7 +1,7 @@
 Origin: mydumper
 Label: mydumper 
 Codename: noble
-Architectures: amd64
+Architectures: amd64 arm64
 Components: main testing
 Suite: stable
 Description: APT repository for MyDumper
