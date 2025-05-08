@@ -1,0 +1,25 @@
+Package: mydumper
+Source: mydumper
+Maintainer: David Ducos <david.ducos@gmail.com>
+Homepage: https://github.com/mydumper/mydumper
+Version: 0.19.2-1~trixie
+Pre-Depends: libatomic1, libglib2.0-0, libpcre3
+Architecture: arm64
+Priority: optional
+Section: utils
+Filename: pool/testing/m/mydumper/mydumper_0.19.2-1~trixie_arm64.deb
+Size: 473156
+SHA256: e027a5b57b33c8597581a304213d9ea64778949af1732499b7f8083d346ee322
+SHA1: 97e676bfa1c29f8568aa6537bd4d71f959e2a270
+MD5sum: 6ea07c7a18184f8bd3c82a00f9d48a31
+Description: mydumper and myloader MySQL backup tools
+ This package provides mydumper and myloader MySQL backup tools.
+ .
+ mydumper is a tool used for backing up MySQL database servers much
+ faster than the mysqldump tool distributed with MySQL.  It also has the
+ capability to retrieve the binary logs from the remote server at the same time
+ as the dump itself.  The advantages of mydumper are: parallelism,
+ easier to manage output, consistency, manageability.
+ .
+ myloader is a tool used for multi-threaded restoration of mydumper backups.
+
