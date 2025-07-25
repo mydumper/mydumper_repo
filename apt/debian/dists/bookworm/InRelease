@@ -5,7 +5,7 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: bookworm
-Date: Fri, 25 Jul 2025 12:09:58 UTC
+Date: Fri, 25 Jul 2025 12:54:20 UTC
 Architectures: amd64 arm64
 Components: main testing
 Description: APT repository for MyDumper
@@ -16,11 +16,11 @@ MD5Sum:
  41d3a7730061971228bbb8c662154ad5 1046 main/binary-arm64/Packages
  564524eb8dca26961dbe90331863019c 631 main/binary-arm64/Packages.gz
  3690b697b6b53a027664c406f7b845e4 126 main/binary-arm64/Release
- 8ffb19b5769ec1768d0bcb48de24f874 1054 testing/binary-amd64/Packages
- 899a9145fac225776f4e342327195363 634 testing/binary-amd64/Packages.gz
+ 920acfce8845de720f203c578f78c0ad 1054 testing/binary-amd64/Packages
+ 69718eded0fb3b19ad6ec01875a98494 637 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
- fd49ff5a9014377149fab4c006c620f1 1053 testing/binary-arm64/Packages
- 86b8b3e1a0cdea04253fc69ee0a79afa 635 testing/binary-arm64/Packages.gz
+ 5848326b73d94311c3af46f1910006aa 1053 testing/binary-arm64/Packages
+ 17113550201de57b7ca9e1d0d64b43a4 637 testing/binary-arm64/Packages.gz
  d13e2c44c8b0141a33c8050c13526b45 129 testing/binary-arm64/Release
 SHA1:
  2bed741718eecc87becf0af6bb33290a52ec2ae4 1047 main/binary-amd64/Packages
@@ -29,11 +29,11 @@ SHA1:
  715ec82047d6a94fb55f17c9207d1df38a509e75 1046 main/binary-arm64/Packages
  4c716bccdffb2fce0ff163e11f89210406b07a2c 631 main/binary-arm64/Packages.gz
  05b78856b02efc5c67213d5615a33ccf979251e5 126 main/binary-arm64/Release
- 4e6ddefd9c78dfafb1324be6ecf8c89aa257b83a 1054 testing/binary-amd64/Packages
- 02103c61e52c85fa706b1538f1fea2065524bfa6 634 testing/binary-amd64/Packages.gz
+ 5fbcf3560c5498fecf8391d403b95d83c0fd30a1 1054 testing/binary-amd64/Packages
+ f8acfcd42bfe49754a0e0d90879ec14ebf717d2d 637 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
- 67c8f54eebdb388a4601eee36658dc88596798d6 1053 testing/binary-arm64/Packages
- 52b9fa118b11829ecd5f4a0107c951f2ee0f3942 635 testing/binary-arm64/Packages.gz
+ 4854316fe19e33efc436b8f1075d9984c62983b8 1053 testing/binary-arm64/Packages
+ a929caf34b22872c1b170029fb63303b7f432d89 637 testing/binary-arm64/Packages.gz
  8b295df455f8ba59945cd339df9ac867f263783c 129 testing/binary-arm64/Release
 SHA256:
  06b7363435e1c1e22f5b7f1dd570d75be98d92bce9f9f42569581ef3ca845dc4 1047 main/binary-amd64/Packages
@@ -42,25 +42,25 @@ SHA256:
  abbb0073ba5a5710ebb11e867c444512c3cc6e120e42bff96391b955f4d2d51e 1046 main/binary-arm64/Packages
  196122d1e80f868f7b610e087db7a1486bf797d970e918ed7a4fd581727019e1 631 main/binary-arm64/Packages.gz
  6258d147e3d9b615e622536d539d933e7a688214a056ea2f1948e890b938f697 126 main/binary-arm64/Release
- 41951cc5573cb5a65c57eb2d71abf6dc21772ab585383a855a280e73866a3175 1054 testing/binary-amd64/Packages
- c65ae8935f454128d063a9732448ab93223508e931e8a0a1b655906d3b94120c 634 testing/binary-amd64/Packages.gz
+ 622bd1d85317871d8bc8aec5e8170d0602f275fdf8f969c8b80851ce7a0da572 1054 testing/binary-amd64/Packages
+ 4ae38e7babf81201c0e75f55228f0d84cdc0d89f9cc40a2c9d42b7f1b4c82ae0 637 testing/binary-amd64/Packages.gz
  857dcb766a4c489ccb4a96f54d74348a5920e03d6ae4756f78f02b994b897123 113 testing/binary-amd64/Release
- 6e6bb1a0b6f1059f158d3de31aa9f7e96bf522753546b7c62bb7bea72effcd92 1053 testing/binary-arm64/Packages
- 9a20fd77a7eae155772c83935f330d9430d2b8dcbabaab49309baa6dd1e93eb6 635 testing/binary-arm64/Packages.gz
+ 525daefc6fad0df8b96f735032c26471187a31f952034e04e78d83b980630342 1053 testing/binary-arm64/Packages
+ b13febcc43aa1bc92fcae03b6e9174fe2013109f658f3757964c10a8921fbc17 637 testing/binary-arm64/Packages.gz
  f208310dba419ae70384796510cb315f9be7f29c9236071b7522c731df73faec 129 testing/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmiDdBYACgkQeeoVwOgu
-NLofWg/7B5po7vyi+qJz/ukvc8eGtnTOF4LrNFGutmLaW7lUR+MebW7k9sl32wQ2
-3M/MIi61/x/i0P9eTyuzvL/HwQOYiFSohHJvSJPYrOTFyXdVMLbTy6yTj7xN89yI
-R7SsYLQ1Z0TG/4J2LZ8z5RbcQB7udP6AUTz3wQx/BbB+UTL2PN+nVsD+HsazuxR5
-GwQYBth88DxDppse8GXgMjX9RVshc4I4lhMoyt00Ex7LatYJ8jCgCTq3qQ1MZ9VM
-mpIWXKoqKwkQHJtyDaC5DVyF3CUnPo83TCDadWvnZ7q7XRAdiibZP9zYl9lTd+z7
-eUWa3Qktpat72aKMy+cSOmSqsMv0L0F09KCCb6VKeui6sUNoYMQLbjmcpJEdlyMM
-s0kjX12AEZfQyIDC3Esh3VeKzErAu7C6kjI06dJiXJ/Vr+AsBn8ZZFTN/ALzqzAW
-Y3rQhCB7rpT389aXmMVkVV7sJV9BoYWLQAR8wiT8+zPKZ0VxVdOAGrdPRo+MTOvW
-RegeA/76cNYJ71txuXlq9LEW4Mx/AcJdmvchW6/e+0k7IOC5flKKYm23tESxWxgH
-y/oxxB838+PsUuf0sawNPyy84fHEc+05j94XKEEnl/T89c1LyY3YTd29OqD9BX85
-OCPbN/SO0uPXnQFF7hq6yrEoXR5FsCdzR7xMvI6cPPeb1EPX9zU=
-=v59s
+iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmiDfnwACgkQeeoVwOgu
+NLpwcg/+MtgCZ4Xm4+3SiXkwKgHzuu/e44owRiBhds/DHmbI43BeT2LIh2l33/Xx
+Zj1zLyCdM6rYfVo8RWkQe75jk6YWmepvDwgnRkmvP8nb6wivjAGdLtgoexfY2RQO
+6SGlWbsHt5RZM5IyM5os68s5dY9S/AKj4ypz/wsBqJVhwcQCzRQuN38z8w3yhAgu
+B7Bkae/v8F32CefygpDj9x0iEKTZUtPDIXLoq7HX3G3I1tq0+h+7nJXQaVOXL2Zs
+yflIcVRr1Pmzl1IiZztBtHJ/gh7BVGhdYNNx64KuGMAzzqNUE+Bk8y04QO3XBtUE
+heHlAWJX156ZrPIQqleHSUYdHj2taVRP1iK3UUQDu4/9Ox9RAjcEN50oRDvwfmEu
+fg4zeo92JO7Ztz5RdosxWC1ctMzeUmJQwQ4nQDUGKkofl9oMLRzxQ1otzVw4zJZQ
+fH0USJMeOKrHaCIuUrvaBJOkg25RLA6epXMEwOiaEsqrLveHTw0x4El3yflvbLEu
+9jLkui1sZ7hKyi9uCNudG/+vnRoi+p5fZRKz4YtGIujEVWtZ+B2wGkqYWvz/8rlq
+nulp9n5hl2N5pfGE+AEbyQ8qMJ5PDbH0I44hzJbmb91bGrjBYqzsMwZeO0kvKwev
++M/zFh0qIjhYN8K2ncEuYjbm3yyRKARrFQXbSnTE+kH80cbQYCU=
+=Dww+
 -----END PGP SIGNATURE-----
