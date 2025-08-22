@@ -2,16 +2,16 @@ Package: mydumper
 Source: mydumper
 Maintainer: David Ducos <david.ducos@gmail.com>
 Homepage: https://github.com/mydumper/mydumper
-Version: 0.19.4-7~trixie
+Version: 0.19.4-8~trixie
 Pre-Depends: libatomic1, libglib2.0-0, libpcre2-dev
 Architecture: arm64
 Priority: optional
 Section: utils
-Filename: pool/testing/m/mydumper/mydumper_0.19.4-7~trixie_arm64.deb
-Size: 481544
-SHA256: 9357f66438209968a3a54d88330f2a0f49bc5e150ab1f86f3ca3c7ad0cd6e132
-SHA1: 8626c81302aad7333dfe67cb3e1eba421ac25229
-MD5sum: bb0c862f60d6fc0dda0f0b4c22b79bcb
+Filename: pool/testing/m/mydumper/mydumper_0.19.4-8~trixie_arm64.deb
+Size: 485636
+SHA256: ec3d33599e0fdc3664ad8ae7ae32e86b997f0db76f912f53d09eb89c8407f2cb
+SHA1: 741854fb53eaf2d05be393eab9fc71177ad02fb5
+MD5sum: d7250232df3ef6bb5cade79ca106ec48
 Description: mydumper and myloader MySQL backup tools
  This package provides mydumper and myloader MySQL backup tools.
  .
