@@ -5,7 +5,7 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: focal
-Date: Thu, 04 Sep 2025 21:17:12 UTC
+Date: Fri, 05 Sep 2025 11:23:21 UTC
 Architectures: amd64
 Components: main testing
 Description: APT repository for MyDumper
@@ -13,36 +13,36 @@ MD5Sum:
  d3688bd5674b25789edb1af88a34b883 1041 main/binary-amd64/Packages
  8882692dbcfe0ee0e0a96a20baef3265 625 main/binary-amd64/Packages.gz
  cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
- 5fcea952818ba067a95766c02e1aa07c 1050 testing/binary-amd64/Packages
- cbb2dfd4631641a3fa25a511ec0ef8a6 631 testing/binary-amd64/Packages.gz
+ 393c95d8c936191e3d0936538320848a 1050 testing/binary-amd64/Packages
+ b1029bd518199b8bb1370a8fb8274c4e 633 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
 SHA1:
  319abeed8a6c0775cc4243a8aaddaf279a00f397 1041 main/binary-amd64/Packages
  4b83a5a4612692605280884776168edc28291997 625 main/binary-amd64/Packages.gz
  73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
- 2cb804097564b105340c3caeee2e1e747689a6a9 1050 testing/binary-amd64/Packages
- 05c28400b72803c408babda218865759eb9f8eb8 631 testing/binary-amd64/Packages.gz
+ 471c4574fb650599259771fc85b66f297adc5f1c 1050 testing/binary-amd64/Packages
+ 39d738bb5916b9d06804510e7cccba2d67e1fdeb 633 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
 SHA256:
  20f97a1ea961be4e93758e7183f5c2ebac73729cec3ff14558db9e15fea12f63 1041 main/binary-amd64/Packages
  562770e54de644e525844c2333a7642fde6d5b86686c3099b0ebba47c95f0eba 625 main/binary-amd64/Packages.gz
  47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
- afd0c6eddf6fdb4a0a8f971a0d0b5ab5db8e8352a0b5fa5538c93910e49e901c 1050 testing/binary-amd64/Packages
- 47711145753f8078bbe6ee1f5b7a20e586deb97bdd834e95234baf8bb3bcca85 631 testing/binary-amd64/Packages.gz
+ da12aaa7b9ed69680ab25eb50f737e12a2fa7cf6792d99a9a8e57b9006004f1f 1050 testing/binary-amd64/Packages
+ c1fbd863c103a3d155b7e1105b6985c4a6c3aad753dec14483cc46bf74b4102a 633 testing/binary-amd64/Packages.gz
  857dcb766a4c489ccb4a96f54d74348a5920e03d6ae4756f78f02b994b897123 113 testing/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmi6AdgACgkQeeoVwOgu
-NLquWA/+L5UO4coSkqnBUpGGbtI5Jw+4nZpmp+z/GGrlb/gQbDXX14rnbmMbgLaP
-xnm9RKfRw7nz+DIXjwnhXkxY+YyFjD3izlJkw6fucoxBtBiXsK1HZP7kgLfO15i5
-OlGPuyGhxXlLUMkWErtt+gFdd7fwvVttihe+o/LwDt+iOsUXgVVieGZzcTee7WqS
-Pw3yeqCT5X9iD8jxqTKcGpiHC6ycctu5fNS6CCKRDoeMZKB4D1mNqLoHIQTFu2+Q
-uy8MagU14jFlO9eqkSGgAJpdamMtqAStTGBv6O799JQkLdKBBa2zoSPgFYmcyvwg
-7cRCxv5EgUnQVXyl9ArUOohXwEwmqv0+3duSqkOZAjios/XXdFBwsPjUgBq9MAkW
-RtdkSfHc3bItUvc3wK5zcbLruVyENZuRX29vzgtWSPzkvB5rBEelhdm3K1TN02cU
-H6Dr+DPuZcPDLUso7LxPJfXU+UGUxZ9DUdDy/h2Glh1zTrjv9ef7gUacAJ4tv4G3
-B0lCq55klqpoXZVfIPc90MLfVmdkx7PNHFfJxSMCweOV3sct76N5u83VUcrXln6Q
-2tM3d/shbnCMIrPMPelzPT/TXw085UdVlaBQ+L8b89ZGf2HYc+Y+rqQjmkH7n7bg
-RJreELS9Yor48gbyOTWCRDCX/LAqaoY7m7CazAZqMQTlDrk7eWA=
-=fdkU
+iQIzBAEBCgAdFiEEHTV+p9EMkyA3G90CeeoVwOguNLoFAmi6yCkACgkQeeoVwOgu
+NLq0nQ/7BwMdajN3UeAC1g0t71q3xiEwjv4BSGZcTqyf0/EfJQqCGnseOUHnFyfp
+K6skWUawUb7/vPog1sU3c5J4ZV+ciGJBqVPOeXaaxXtYpybdQl74znguVVFZ2BP/
+WcTY+ZbB+0z5ylIHuo0cm49M0EV52nZWMt5ZvE0wf8ek3GhaVayBA24xPHBioxSP
+DMP73mbyrb4B16OQav2ELmMHDUoLZX3WG4KjB+dknJSQW+P7OZ1zPwKZc6eytf0r
+P6fItIngPEQPGT2G9Uvs9f22UE6NdrUsjujUYVeYZxEA7UCmN1siSIHDRPGO4I5m
+m4KE2dRANXJqKPS6AEssJe1JgBhgwhgR/+acMcRmKShU30UlQWA3Wp1wpQ75vUMv
+Odcuwr9l706QTA9kFlzJojNFoEkxMeSNP/OSxjSngfLAsWK/viA1PvSAl6r6hD1n
+j1P8lJ4ntxfajVZx0nyyFFAhTv86scVgS/DxSrySZ++3nE0yXAsACqOfTMQZVdOI
++G3pGY3Xii8lEl//mjLexzqyQh1DG2evK3tCKXmj7YHsDUbilJlyjFWBm0BvfyNI
+aP3XP0vgco5l431JXrOIA5u/XuaymtsSYPQGPLKJY2tp1yCmAljNkvOOxQKQ7tS+
+wL5VmDaotQTi2Om5GlQjFo8qRtqY9oyaeS255ilVk6MTBA+3w7M=
+=p2E3
 -----END PGP SIGNATURE-----
