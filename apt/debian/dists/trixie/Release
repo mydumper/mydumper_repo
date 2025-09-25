@@ -2,16 +2,16 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: trixie
-Date: Fri, 19 Sep 2025 11:57:37 UTC
+Date: Thu, 25 Sep 2025 17:42:46 UTC
 Architectures: amd64 arm64
 Components: main testing
 Description: APT repository for MyDumper
 MD5Sum:
- 066c6fc2e6fbf05f02ac542aef2774ef 1046 main/binary-amd64/Packages
- b8b9a14a297b9340421b6f57214c3e3e 630 main/binary-amd64/Packages.gz
+ 213d75d89d214cbfb118f2c4204e6ef9 1046 main/binary-amd64/Packages
+ 145223a38f189c00ee49e5b0293b1c22 630 main/binary-amd64/Packages.gz
  6e69c1512b1ba5876fa0b263f3edd294 126 main/binary-amd64/Release
- 4a8678c2c7b7af4bcf4ab81ba4c5b931 1046 main/binary-arm64/Packages
- 65dcd5876e33543ca239539a3cf8226c 631 main/binary-arm64/Packages.gz
+ a72dd91200901c3f15f553e8f5c65730 1046 main/binary-arm64/Packages
+ 5abb00ffd70422ed467cf4e612a1d45f 632 main/binary-arm64/Packages.gz
  3690b697b6b53a027664c406f7b845e4 126 main/binary-arm64/Release
  d2f205163bf16dcf64762a27b9ebe4df 1051 testing/binary-amd64/Packages
  d991c660b664bb75cedaf8baa6143a70 631 testing/binary-amd64/Packages.gz
@@ -20,11 +20,11 @@ MD5Sum:
  9646ff46869116de07226c17fcc4b035 635 testing/binary-arm64/Packages.gz
  d13e2c44c8b0141a33c8050c13526b45 129 testing/binary-arm64/Release
 SHA1:
- 0cd5d27b685c8c4a77054f0af3add8a1b8d032be 1046 main/binary-amd64/Packages
- b9adfddc952338a633eda00422c90a6e8008476d 630 main/binary-amd64/Packages.gz
+ 22ece00fc2acf3df8e4b887c80f3875332294df9 1046 main/binary-amd64/Packages
+ 8ef37f34b642515b45329a675a05867d698c393e 630 main/binary-amd64/Packages.gz
  0b7ed379da8952211777883602836827a0e0182d 126 main/binary-amd64/Release
- bffaf166512a9c2226384f327d06c514ba144fde 1046 main/binary-arm64/Packages
- 53a284b2eb2fb3e7a517ca0440f10bdf5844c840 631 main/binary-arm64/Packages.gz
+ 713be40cbb7cb7109d231d76719be0151732cf91 1046 main/binary-arm64/Packages
+ 020a998dd23091aeece1f03193d6e5a5875f9afc 632 main/binary-arm64/Packages.gz
  05b78856b02efc5c67213d5615a33ccf979251e5 126 main/binary-arm64/Release
  3ffcf868aea56a40688059dc56d42b6a9a1faff9 1051 testing/binary-amd64/Packages
  4db01436addf67dec95edf9a5cbfabd00da2abd4 631 testing/binary-amd64/Packages.gz
@@ -33,11 +33,11 @@ SHA1:
  8052fa161449a5134a4ab09b5715b8a5aef917ba 635 testing/binary-arm64/Packages.gz
  8b295df455f8ba59945cd339df9ac867f263783c 129 testing/binary-arm64/Release
 SHA256:
- 5eae3677839b2fc2dfc206b8d5e7d10b12020a0a3cf6af336a9f0c496a03258a 1046 main/binary-amd64/Packages
- fea4bff529f5c5421dacffc77baa492056f64a28b96aa1b4def0aa75300076d6 630 main/binary-amd64/Packages.gz
+ 2150d1cd2445111c6a80e6062c06c627e02ebf7bc2b7dcd583d5766d0a8f9437 1046 main/binary-amd64/Packages
+ 215d8db1d23ddc952a4ddbe0af0b33a99b09b1b102da2a2a33f8761832a0f882 630 main/binary-amd64/Packages.gz
  29a7febaf35f3e23ec221029247e23a614185688a05fc24a99b832f3814df16e 126 main/binary-amd64/Release
- 124777cc2eda01ce8acf9adb0b17bbc4cd317a6e91614dab9f37c7829678e6fe 1046 main/binary-arm64/Packages
- ac9dbcc168c847aba251af8889615ead27280624575ebe819997bf72859ae4bf 631 main/binary-arm64/Packages.gz
+ a0526c1c464a9315602b13741142a5f5207271aa26947090b23f833b8673cd4b 1046 main/binary-arm64/Packages
+ 77d3c42de7baee1fa9419724084870ee0eea0611037bf2dc20456b6c365b6fc8 632 main/binary-arm64/Packages.gz
  6258d147e3d9b615e622536d539d933e7a688214a056ea2f1948e890b938f697 126 main/binary-arm64/Release
  f03e9b47faa55095b331714089f2eac27907ae3f515b48e211e9239ddc2980cc 1051 testing/binary-amd64/Packages
  41bfe867a5063f0dd22625d8ec175d40c6dbc4e0fdb64fc3c9287b1b13f718ee 631 testing/binary-amd64/Packages.gz
