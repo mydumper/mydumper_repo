@@ -2,7 +2,7 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: noble
-Date: Wed, 19 Nov 2025 20:34:05 UTC
+Date: Fri, 21 Nov 2025 14:10:51 UTC
 Architectures: amd64 arm64
 Components: main testing
 Description: APT repository for MyDumper
@@ -13,11 +13,11 @@ MD5Sum:
  59538ab8bb6c71fb5cb3d4b1c0386455 1045 main/binary-arm64/Packages
  fa0b383bcbb7191dc53e0b225da6b001 630 main/binary-arm64/Packages.gz
  3690b697b6b53a027664c406f7b845e4 126 main/binary-arm64/Release
- f2b3d63cf9afa9d170f0e20ff8c81875 1048 testing/binary-amd64/Packages
- b02b2375dfc4ecb0fa5acf6f76872e1b 633 testing/binary-amd64/Packages.gz
+ 54d90396be725bf3c8f9e6a7b17c8a03 1048 testing/binary-amd64/Packages
+ 0b0b0c55dd6987627629334d93770f89 630 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
- 0e054f6a8416cae4adb9b3ce53e4080a 1048 testing/binary-arm64/Packages
- b762db972d54f366a2a4ea7913a8cf40 631 testing/binary-arm64/Packages.gz
+ 41a30ea6a735374345cb6a0424099481 1048 testing/binary-arm64/Packages
+ b662975cdc150870657958842d5b7961 632 testing/binary-arm64/Packages.gz
  d13e2c44c8b0141a33c8050c13526b45 129 testing/binary-arm64/Release
 SHA1:
  93ef8d736d956199acd336b6583a187c3c3d33ad 1045 main/binary-amd64/Packages
@@ -26,11 +26,11 @@ SHA1:
  322e0968e17869813f49615f83960ae454c47fac 1045 main/binary-arm64/Packages
  366a2a18a9f50fba1af3ee39c24de943bb3fccd1 630 main/binary-arm64/Packages.gz
  05b78856b02efc5c67213d5615a33ccf979251e5 126 main/binary-arm64/Release
- 024c820abdffc5886dbcab66b4324ef3632fe2b8 1048 testing/binary-amd64/Packages
- ab6dbb463b1beb1580e0036ae307703d614f90da 633 testing/binary-amd64/Packages.gz
+ afc0e4633403b4774d42a70f60577b918a553739 1048 testing/binary-amd64/Packages
+ 8281fda0bbc9920e0fa0b17b53aecf0abe73da68 630 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
- 235ce02d7a0498bb8611578a64b4e145bacd24b3 1048 testing/binary-arm64/Packages
- 5236eb244ae9c4d6b0e0d2d4c7fc3ea7dc324e22 631 testing/binary-arm64/Packages.gz
+ 124c96fd0bdfca70cc172cc21b808d84b2112dfd 1048 testing/binary-arm64/Packages
+ 2eea9c5b703f287e22801677d2159746b239bdcd 632 testing/binary-arm64/Packages.gz
  8b295df455f8ba59945cd339df9ac867f263783c 129 testing/binary-arm64/Release
 SHA256:
  24e5f7005d950a4515e90a7485af723ed6be61aa2b266633ea075cde3c235d03 1045 main/binary-amd64/Packages
@@ -39,9 +39,9 @@ SHA256:
  aeb3e7e147d84f65da2ca70049cc2bf195b2adfba9d01a97b56851b003320ca6 1045 main/binary-arm64/Packages
  f2c9c6bc40fb75df288d017073144b2bebf02f94bd637ce521af3ba716944828 630 main/binary-arm64/Packages.gz
  6258d147e3d9b615e622536d539d933e7a688214a056ea2f1948e890b938f697 126 main/binary-arm64/Release
- b27e4a3ff077f563683eb1147c845dce12605a3c8e1792a787a4a300a37691f5 1048 testing/binary-amd64/Packages
- 3003a8a0d23b208d19db7e885b9d756db4c85ebe41e91828be53abec35bace5f 633 testing/binary-amd64/Packages.gz
+ bb8c9f66ad46f2aa41eb02aaee35c5ed4077401af2ad633438d3e93a41fa0cc2 1048 testing/binary-amd64/Packages
+ 758a408a8e560440fb80f7bd25a878510584183bbede5aed02ad9ea1614c66e9 630 testing/binary-amd64/Packages.gz
  857dcb766a4c489ccb4a96f54d74348a5920e03d6ae4756f78f02b994b897123 113 testing/binary-amd64/Release
- fb9659d780d86c3ad4b0a16349f5ae781ec88261d123f4dd6cf718bb8fcf7167 1048 testing/binary-arm64/Packages
- df53f1bb3d29c05b54b933db7fbd6a613a8ded20b69dbeddecef2c065f400476 631 testing/binary-arm64/Packages.gz
+ 9e9a4686a972c0df2c588788f670fbabb649b09135c22033bf1efde377b9bed2 1048 testing/binary-arm64/Packages
+ a66b0981cfb9dbe5d2ecccefed36003369eda7bcc342694d2e3e472556d5d817 632 testing/binary-arm64/Packages.gz
  f208310dba419ae70384796510cb315f9be7f29c9236071b7522c731df73faec 129 testing/binary-arm64/Release
