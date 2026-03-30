@@ -2,16 +2,16 @@ Package: mydumper
 Source: mydumper
 Maintainer: David Ducos <david.ducos@gmail.com>
 Homepage: https://github.com/mydumper/mydumper
-Version: 0.21.2-4~noble
+Version: 0.21.4-1~noble
 Pre-Depends: libatomic1, libglib2.0-0, libpcre2-8-0
 Architecture: arm64
 Priority: optional
 Section: utils
-Filename: pool/testing/m/mydumper/mydumper_0.21.2-4~noble_arm64.deb
-Size: 1556552
-SHA256: 26ed85ba1480c3e5c6a3b859a03846de69ae976c2a711e239bb6ec25dfcc9a2e
-SHA1: 5b752c711083421f72b151f1a2bd83d92e323598
-MD5sum: 5262b3a5763ebb344d7722797d29f79b
+Filename: pool/testing/m/mydumper/mydumper_0.21.4-1~noble_arm64.deb
+Size: 1598476
+SHA256: 306578bd1e77873d9a41acbbf51d4f857947f64bb04877e78e548c06448b42a5
+SHA1: f6fa402f69dfa4a0225be1e6e29abe388ebda4f6
+MD5sum: aade66c0ad43bec63b2b5ec4e8989b56
 Description: mydumper and myloader MySQL backup tools
  This package provides mydumper and myloader MySQL backup tools.
  .
