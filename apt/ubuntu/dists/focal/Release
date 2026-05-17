@@ -2,27 +2,27 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: focal
-Date: Wed, 22 Apr 2026 19:11:37 UTC
+Date: Sun, 17 May 2026 22:46:03 UTC
 Architectures: amd64
 Components: main testing
 Description: APT repository for MyDumper
 MD5Sum:
- d4c18735057e5ecbad9a80c744364822 1045 main/binary-amd64/Packages
- cf2ca1b87bc2fa1a5cc2c9d16e48cfac 628 main/binary-amd64/Packages.gz
+ 6eac4f687501b92f4985720c9fe132be 1043 main/binary-amd64/Packages
+ 98d40627bf83e42ae09d31b65d16750f 630 main/binary-amd64/Packages.gz
  cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
  2812f372e1599186fc1a50f29d3e7bd8 1046 testing/binary-amd64/Packages
  4d39f2c98b7d920b8ea20c9926554c42 630 testing/binary-amd64/Packages.gz
  bfad8cdf68d95d66a902b9029bb73497 113 testing/binary-amd64/Release
 SHA1:
- 348b37d73d8c5e8973ed7ffbcf80fd3488fc9b49 1045 main/binary-amd64/Packages
- 429ec1277dd4fbcf8e06a9839eac3a3c669b17ed 628 main/binary-amd64/Packages.gz
+ da088b4a18de9df23e903ca798ebf4ca994d95ce 1043 main/binary-amd64/Packages
+ 2f4e89109c9cac19e7fe80db747ea30083fb8b84 630 main/binary-amd64/Packages.gz
  73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
  7c7c105087e9377e37bca5967db943383eb20be2 1046 testing/binary-amd64/Packages
  6d60ef06dd4edc1aba8f32e01e38e7459d4d8a7b 630 testing/binary-amd64/Packages.gz
  7b6a1f56d23b9b9c3a7559d9f5a6a42f5f820242 113 testing/binary-amd64/Release
 SHA256:
- ce0fd3fc16717eddb0c8fed7cab116c58c1b18492308b48cac737cf043cf1670 1045 main/binary-amd64/Packages
- e930998b051719b8c4c944be23e899493bcec9d5a4e9f746a2625c8a054ca17a 628 main/binary-amd64/Packages.gz
+ e57f9343ae29c6591646b44200e6c73ed012ae3a4e020c397c6a77af49976ae6 1043 main/binary-amd64/Packages
+ 3d6f27cbc58e186d1fccbaa9ca257c97306e289ec149a9abd19ce0feefe4816e 630 main/binary-amd64/Packages.gz
  47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
  21adadc70cb1f1436f969c65ad659f69519deda3fe7fbba5b38f78a2f4344a40 1046 testing/binary-amd64/Packages
  5a7a52fe297da99e4990da9dd9f042f5423a402bedc242e2dd9c06f3602c2cc0 630 testing/binary-amd64/Packages.gz
