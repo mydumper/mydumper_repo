@@ -1,0 +1,6 @@
+Archive: stable
+Component: testing
+Origin: mydumper
+Label: mydumper
+Architecture: amd64
+Description: APT repository for MyDumper
