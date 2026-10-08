@@ -2,16 +2,16 @@ Origin: mydumper
 Label: mydumper
 Suite: stable
 Codename: bookworm
-Date: Wed, 07 Oct 2026 21:47:50 UTC
+Date: Thu, 08 Oct 2026 15:19:00 UTC
 Architectures: amd64 arm64
 Components: main testing
 Description: APT repository for MyDumper
 MD5Sum:
- b4e34d956b5b689fc93d893c99dbc605 1049 main/binary-amd64/Packages
- d5fe8a61db9a1a037b188480b6d29c93 631 main/binary-amd64/Packages.gz
+ 5b689f3834cc6cf5c3ecbd719336d9f5 1051 main/binary-amd64/Packages
+ 085f315b126cb669613c221b3d906fc3 634 main/binary-amd64/Packages.gz
  cccc2dcf68a834cce535cc33b5c602e9 110 main/binary-amd64/Release
- 077587634f0d7a895f4458d51e081c23 1048 main/binary-arm64/Packages
- 6923b215f40118b94886f1e53a4dd3f1 630 main/binary-arm64/Packages.gz
+ 9832c134b0732650909b3a6af40c7201 1050 main/binary-arm64/Packages
+ bb5b78853235cff66b8681e1076593c4 635 main/binary-arm64/Packages.gz
  3690b697b6b53a027664c406f7b845e4 126 main/binary-arm64/Release
  676af6f9ef32319c3551b567fd3256fc 1052 testing/binary-amd64/Packages
  06bf8af85a0529244cf9bc3b72fceb81 634 testing/binary-amd64/Packages.gz
@@ -20,11 +20,11 @@ MD5Sum:
  1c4c7adaf625c121b38a862da57b67fc 633 testing/binary-arm64/Packages.gz
  d13e2c44c8b0141a33c8050c13526b45 129 testing/binary-arm64/Release
 SHA1:
- c1f8e8ab4d591a3215c28fc1c2413c56621ec81a 1049 main/binary-amd64/Packages
- 1549be7e3ed7ed858a62d1a27823ed42807aa775 631 main/binary-amd64/Packages.gz
+ 0f0555efb29b21cc2e48f3a7cdc8550b95b911cd 1051 main/binary-amd64/Packages
+ 22afde2bfb62e3c37a77bf7f5441b1a0414740ca 634 main/binary-amd64/Packages.gz
  73e6adee8177c24c99cbed638246963269ef5208 110 main/binary-amd64/Release
- 4dac615f0cbbd688ee72a16167fef73b5ac4e7d1 1048 main/binary-arm64/Packages
- 88caa567b9c7c0456709ecd834c8062d449416f8 630 main/binary-arm64/Packages.gz
+ d50327112ad84a5e0802203ab759cbf126ec558d 1050 main/binary-arm64/Packages
+ 5f804ffed8a24b7b567048c1700b0854ee0a6e5d 635 main/binary-arm64/Packages.gz
  05b78856b02efc5c67213d5615a33ccf979251e5 126 main/binary-arm64/Release
  57cb93defb0f3e92df40d0948965c783d44abd73 1052 testing/binary-amd64/Packages
  d09ad7b0421b0ae06107cb4e241ee91574a89bb4 634 testing/binary-amd64/Packages.gz
@@ -33,11 +33,11 @@ SHA1:
  382a36f30871f369f29d221553d0be166a91d781 633 testing/binary-arm64/Packages.gz
  8b295df455f8ba59945cd339df9ac867f263783c 129 testing/binary-arm64/Release
 SHA256:
- 6336e1f8f1dbb2d10c794238e255648de2bf7ab1b3ef30c5257104e658b325d6 1049 main/binary-amd64/Packages
- e749663e8f0c59ad7c088829e880ef9578d920fc55fe38db38bc5fa5c1191dff 631 main/binary-amd64/Packages.gz
+ 0a2cdad9729bce9af4eeed3316fb76408c4789b03df327b2d05c7a9834ddf51c 1051 main/binary-amd64/Packages
+ 43116bf91fa460e3e6a045f9e2fc77d5ec713c71bb36adb5f4fcf7a826e28460 634 main/binary-amd64/Packages.gz
  47ac8fede1850da7f44fb56f652a9cc126468735ee635595ae2cfbe36873835a 110 main/binary-amd64/Release
- 70f9361d15b5f15d875f509f09fc26cd107652c8220f54af07fe6e8d3fcfe71b 1048 main/binary-arm64/Packages
- 5f0d792a493f884a28d5ec3384e1ea84ccdd61dd2315c3c2e7f7bf4388310570 630 main/binary-arm64/Packages.gz
+ 8d190af4b363530914e2a9b30569ad83e762c7447c83c4fcacc79fe59d8f1c9d 1050 main/binary-arm64/Packages
+ 861a0417e9fb7bee5774d0f91bf35c3a0138b31ac014b2a73c5bb763bd268208 635 main/binary-arm64/Packages.gz
  6258d147e3d9b615e622536d539d933e7a688214a056ea2f1948e890b938f697 126 main/binary-arm64/Release
  c30d7a744b70228c4b9569b663deb1043e84d5cd681453f436566d0a18709e10 1052 testing/binary-amd64/Packages
  2b6b633cf8747e6de54f855af16187bb9677db9be53d1b3b76d81a6cddcc7281 634 testing/binary-amd64/Packages.gz
